@@ -1,5 +1,7 @@
 #https://docs.python.org/2/library/turtle.html#turtle.fill
 #24.5. turtle — Turtle graphics for Tk
+#https://compuzzle.wordpress.com/2015/04/14/events-python-turtle/
+#Movimiento teclado
 from tkinter import *
 from turtle import *
 from math import *
